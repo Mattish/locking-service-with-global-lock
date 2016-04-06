@@ -1,0 +1,6 @@
+C:\git\TaskLockingResearch\TaskLockingResearch\bin\Debug\TaskLockingResearch.exe.config
+C:\git\TaskLockingResearch\TaskLockingResearch\bin\Debug\TaskLockingResearch.exe
+C:\git\TaskLockingResearch\TaskLockingResearch\bin\Debug\TaskLockingResearch.pdb
+C:\git\TaskLockingResearch\TaskLockingResearch\obj\Debug\TaskLockingResearch.csprojResolveAssemblyReference.cache
+C:\git\TaskLockingResearch\TaskLockingResearch\obj\Debug\TaskLockingResearch.exe
+C:\git\TaskLockingResearch\TaskLockingResearch\obj\Debug\TaskLockingResearch.pdb
