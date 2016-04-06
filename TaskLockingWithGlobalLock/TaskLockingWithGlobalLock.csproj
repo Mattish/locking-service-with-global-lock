@@ -7,8 +7,8 @@
     <ProjectGuid>{7C70E2F2-D37D-41BC-98BB-161CD0F09901}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>TaskLockingResearch</RootNamespace>
-    <AssemblyName>TaskLockingResearch</AssemblyName>
+    <RootNamespace>TaskLockingWithGlobalLock</RootNamespace>
+    <AssemblyName>TaskLockingWithGlobalLock</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
@@ -50,7 +50,7 @@
     <None Include="App.config" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
-  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it.
        Other similar extension points exist, see Microsoft.Common.targets.
   <Target Name="BeforeBuild">
   </Target>
